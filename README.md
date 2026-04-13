@@ -85,6 +85,16 @@ The project uses the `house_prices_portfolio.csv` dataset, which includes the fo
 ## Contributing
 Feel free to fork this repository, open issues, or submit pull requests to improve the project.
 
+# 🏡 Real Estate Price Prediction AI
+### *An End-to-End Machine Learning Solution for Property Valuation*
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_svg.svg)](https://real-estate-price-prediction-ml-bjirdbd3kguip4zo2slw9u.streamlit.app/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
+
+---
+
+## 🔗 [Live Demo: Try the AI Valuator Here](https://real-estate-price-prediction-ml-bjirdbd3kguip4zo2slw9u.streamlit.app/)
 
 👨‍💻 Author
 Murad Amin 
